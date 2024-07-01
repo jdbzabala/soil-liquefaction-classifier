@@ -16,5 +16,5 @@ XGBoost Model with 84.69% accuracy
 The project also involves explaining the model through DICE and Counterfactuals to explain the prediction.
 ![Explainability](https://github.com/jdbzabala/soil-liquefaction-classifier/assets/143991175/3ea48bc3-5a76-4a85-880b-8e2f426fd3dd)
 
-![Uploading Explain2.png…]()
+![Explain2](https://github.com/jdbzabala/soil-liquefaction-classifier/assets/143991175/b85463ff-a940-403c-9e12-e24f8753ca96)
 
